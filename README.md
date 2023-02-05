@@ -15,7 +15,7 @@ In this step-by-step guide, I went through the process of setting up a laborator
 - <b>Windows 10</b> (21H2)
 - <b>Server 2019</b>
 
-<h2>Lab Overviewh:</h2>
+<h2>Lab Overview:</h2>
 
 <p align="center">
 This is the guide im going to go by: <br/>
